@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-// Clase Lectura para la entrada de datos y validación
+
 public class Lectura {
     private Scanner scanner;
 
