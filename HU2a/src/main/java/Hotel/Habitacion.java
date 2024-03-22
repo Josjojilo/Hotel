@@ -18,7 +18,7 @@ public class Habitacion {
         this.tipo = tipo;
         this.capacidad = capacidad;
         this.disponible = disponible;
-        this.ocupada = !disponible; // La habitación está ocupada si no está disponible
+        this.ocupada = !disponible; 
     }
 
     // Getters y setters
