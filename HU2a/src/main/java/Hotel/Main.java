@@ -17,7 +17,7 @@ public class Main {
         for (int i = 0; i < habitaciones.size(); i++) {
             System.out.println("Habitación " + (i + 1) + ":");
             System.out.println(habitaciones.get(i));
-            System.out.println(); // Línea en blanco para separar las habitaciones
+            System.out.println(); 
         }
     }
 }
