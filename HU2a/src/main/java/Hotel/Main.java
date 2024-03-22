@@ -13,7 +13,6 @@ public class Main {
         Lectura lectura = new Lectura();
         List<Habitacion> habitaciones = lectura.agregarHabitaciones();
         
-        // Imprimir información de las habitaciones
         System.out.println("Información de las habitaciones:");
         for (int i = 0; i < habitaciones.size(); i++) {
             System.out.println("Habitación " + (i + 1) + ":");
